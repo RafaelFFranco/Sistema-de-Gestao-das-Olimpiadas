@@ -1,1 +1,1 @@
-# Sistema-de-Gest-o-das-Olimp-adas
+# Sistema-de-Gestao-das-Olimpiadas
